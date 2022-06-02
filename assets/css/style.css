@@ -44,6 +44,7 @@ section{
     padding: 20px;
     font-size: 16px;
     /*border:white 2px solid;*/
+    color: aqua;
    }
 
 #iguana-verde img{
@@ -66,8 +67,7 @@ h1{
     text-align: center;
     box-sizing: border-box;
     font-size: 40px;
-    bor
-    }
+}
 
 
 .iconos-caracteristicas {
